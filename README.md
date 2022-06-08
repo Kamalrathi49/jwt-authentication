@@ -1,5 +1,4 @@
 # JWT Token Authentication
-### Demo - https://herokudjangoapp.herokuapp.com/
 
 #### Code - https://github.com/Kamalrathi49/jwt-authentication
 #### Detail Brochure
